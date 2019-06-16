@@ -23,7 +23,7 @@ var planets = [
     });
 
     
-    var namePlanet = document.getElementById("planets").value;
+    // var namePlanet = document.getElementById("planets").value;
 
 function calculateWeight(userWeight, planetName){
     var userWeight = document.getElementById("user-weight").value;
